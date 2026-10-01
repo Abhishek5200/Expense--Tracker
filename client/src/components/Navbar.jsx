@@ -26,7 +26,7 @@ export default function Navbar() {
           <span className="w-8 h-8 rounded-full bg-gold/15 border border-gold/30 text-gold flex items-center justify-center">
             <Wallet size={16} />
           </span>
-          <span className="font-display text-xl tracking-tight text-ink">Money Tracker</span>
+          <span className="font-display text-xl tracking-tight text-ink">Expense Tracker</span>
         </div>
 
         <nav className="hidden md:flex items-center gap-1">

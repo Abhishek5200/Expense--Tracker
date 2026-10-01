@@ -13,7 +13,7 @@ function ProtectedRoute({ children }) {
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-paper">
-        <p className="label">Loading Money Tracker…</p>
+        <p className="label">Loading Expense Tracker…</p>
       </div>
     );
   }

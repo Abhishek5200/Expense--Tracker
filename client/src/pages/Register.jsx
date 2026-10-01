@@ -63,7 +63,7 @@ export default function Register() {
             </div>
 
             <h1 className="text-2xl font-bold tracking-tight">
-              Money <span className="text-gold">Tracker</span>
+              Expense <span className="text-gold">Tracker</span>
             </h1>
           </div>
 
@@ -202,7 +202,7 @@ export default function Register() {
             </div>
 
             <h1 className="text-2xl font-bold text-ink">
-              Money <span className="text-gold">
+              Expense <span className="text-gold">
                 Tracker
               </span>
             </h1>
