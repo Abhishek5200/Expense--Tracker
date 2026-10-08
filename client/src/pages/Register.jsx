@@ -272,7 +272,7 @@ export default function Register() {
                         name: e.target.value
                       })
                     }
-                    placeholder="Jordan Blake"
+                    placeholder="Full Name"
                     className="w-full h-13 pl-12 pr-4 rounded-xl border border-white/10 bg-cream text-ink placeholder:text-ink-light/60 outline-none transition focus:border-gold focus:ring-4 focus:ring-gold/10"
                   />
 
